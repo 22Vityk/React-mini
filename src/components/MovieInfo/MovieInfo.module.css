@@ -1,0 +1,17 @@
+.Block {
+    width: 2000px;
+    height: 2000px;
+}
+
+.MovieInfo {
+    width: 1300px;
+    height: auto;
+    border: 2px solid black;
+    display: flex;
+    align-items: flex-start;
+}
+
+.img {
+    height: 50%;
+    width: 30%;
+}

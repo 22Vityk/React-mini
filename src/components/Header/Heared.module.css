@@ -1,0 +1,19 @@
+.Header {
+    height: 50px;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    background-color: blue;
+    margin: 5px;
+
+
+}
+
+
+a {
+    margin: 5px;
+    text-decoration: black;
+    color: snow;
+
+
+}
