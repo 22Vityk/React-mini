@@ -14,7 +14,7 @@ const InfoPage = () => {
 
 	useEffect(()=>{
 		dispatch(movieActions.getById({id}))
-	}, [])
+	}, [id])
 
 
 
